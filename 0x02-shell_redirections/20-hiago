@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -nal
+tr -d C,c
